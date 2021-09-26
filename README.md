@@ -1,25 +1,42 @@
 ### Hi there 👋
 
-I'm Hasan Masud, a full stack developer with about 4 years of experience.
+I'm [Hasan Masud](http://hasanmasud.com/), a fullstack developer building digital products at my current workplace using Lean Design principles.
 <br>
-I use PHP/Laravel, MySQL, JavaScript, Vue JS, jQuery, Bootsrap & Tailwind css to develop the projects.
+I use PHP/Laravel, MySQL, JavaScript, Vue JS, jQuery, Bootsrap & Tailwind css to develop the products.
 <br>
 
 - 📫 How to reach me: 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/iHasanMasud)](https://t.me/iHasanMasud)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=hasan.masud.dcc@gmail.com)](mailto:hasan.masud.dcc@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/iHasanMasud)](https://twitter.com/iHasanMasud)
-<!--
-**iHasanMasud/iHasanMasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💬 A little more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```php
+<?php
+
+namespace HasanMasud;
+
+class About extends Me
+{
+    public function getWorkplaces(): array
+    {
+        return [
+            'workplaces' => [
+                [
+                    'company' => 'Aqa Technology',
+                    'position' => 'Web Developer',
+                    'startDate' => '2018-04-01',
+                    'endDate' => null
+                ]
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [Laravel::class, Vuejs::class, Nodejs::class, Expressjs::class, MongoDB::class];
+    }
+}
+
+```
