@@ -22,15 +22,21 @@ class About extends Me
     public function getWorkplaces(): array
     {
         return [
-            'workplaces' => [
-                [
-                    'company' => 'Aqa Technology',
-                    'position' => 'Web Developer',
-                    'startDate' => '2018-04-01',
-                    'endDate' => null
+                'workplaces' => [
+                    [
+                        'company' => 'Excel Telecom (Pvt.) Ltd.',
+                        'position' => 'Web Developer',
+                        'startDate' => '2021-10-02',
+                        'endDate' => null
+                    ],
+                    [
+                        'company' => 'Aqa Technology',
+                        'position' => 'Web Developer',
+                        'startDate' => '2018-04-01',
+                        'endDate' => '2021-09-30'
+                    ]
                 ]
-            ]
-        ];
+            ];
     }
 
     public function getDailyKnowledge(): array
