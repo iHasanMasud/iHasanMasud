@@ -6,7 +6,7 @@ I use PHP/Laravel, MySQL, JavaScript, Vue JS, jQuery, Bootsrap & Tailwind css to
 <br>
 
 - 📫 How to reach me: 
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-tealgreen?style=flat&logo=whatsApp&logoColor=white&link=https://wa.me/+8801720204272)](https://wa.me/+8801720204272)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-tealgreen?style=flat&logo=whatsApp&logoColor=white&link=https://wa.me/+8801720204272)](https://wa.me/1720204272)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/iHasanMasud)](https://t.me/iHasanMasud)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=hasan.masud.dcc@gmail.com)](mailto:hasan.masud.dcc@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/iHasanMasud)](https://twitter.com/iHasanMasud)
