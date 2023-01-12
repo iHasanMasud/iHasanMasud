@@ -23,26 +23,32 @@ class About extends Me
     public function getWorkplaces(): array
     {
         return [
-                'workplaces' => [
-                    [
-                        'company' => 'Excel Telecom (Pvt.) Ltd.',
-                        'position' => 'Web Developer',
-                        'startDate' => '2021-10-02',
-                        'endDate' => null
-                    ],
-                    [
-                        'company' => 'Aqa Technology',
-                        'position' => 'Web Developer',
-                        'startDate' => '2018-04-01',
-                        'endDate' => '2021-09-30'
-                    ]
+            'workplaces' => [
+                [
+                    'company' => 'DigiPro Solutions Ltd.',
+                    'position' => 'Team Lead',
+                    'startDate' => '2022-10-06',
+                    'endDate' => null
+                ],
+                [
+                    'company' => 'Excel Telecom (Pvt.) Ltd.',
+                    'position' => 'Full-Stack Developer',
+                    'startDate' => '2021-10-02',
+                    'endDate' => '2022-10-04'
+                ],
+                [
+                    'company' => 'Aqa Technology',
+                    'position' => 'Full-Stack Developer',
+                    'startDate' => '2018-04-01',
+                    'endDate' => '2021-09-30'
                 ]
-            ];
+            ]
+        ];
     }
 
     public function getDailyKnowledge(): array
     {
-        return [Laravel::class, Vuejs::class, Nodejs::class, Expressjs::class, MongoDB::class];
+        return [Laravel::class, Vuejs::class, Python::class, Django::class, MongoDB::class];
     }
 }
 
