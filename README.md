@@ -26,7 +26,7 @@ class About extends Me
             'workplaces' => [
                 [
                     'company' => 'DigiPro Solutions Ltd.',
-                    'position' => 'Team Lead',
+                    'position' => 'Senior Software Developer',
                     'startDate' => '2022-10-06',
                     'endDate' => null
                 ],
