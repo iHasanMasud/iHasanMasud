@@ -6,10 +6,10 @@ I use PHP/Laravel, MySQL, JavaScript, Vue JS, jQuery, Bootsrap & Tailwind css to
 <br>
 
 - 📫 How to reach me: 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ihasanmasud)](https://www.linkedin.com/in/ihasanmasud)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-tealgreen?style=flat&logo=whatsApp&logoColor=white&link=https://wa.me/8801720204272)](https://wa.me/8801720204272)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/iHasanMasud)](https://t.me/iHasanMasud)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=hasan.masud.dcc@gmail.com)](mailto:hasan.masud.dcc@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/iHasanMasud)](https://twitter.com/iHasanMasud)
 
 - 💬 A little more about me:
 
