@@ -25,10 +25,16 @@ class About extends Me
         return [
             'workplaces' => [
                 [
+                    'company' => 'Genex Infosys Limited',
+                    'position' => 'Senior Software Developer',
+                    'startDate' => '2023-11-01',
+                    'endDate' => null
+                ],
+                [
                     'company' => 'DigiPro Solutions Ltd.',
                     'position' => 'Senior Software Developer',
                     'startDate' => '2022-10-06',
-                    'endDate' => null
+                    'endDate' => '2023-10-31'
                 ],
                 [
                     'company' => 'Excel Telecom (Pvt.) Ltd.',
