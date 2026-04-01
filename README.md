@@ -1,17 +1,15 @@
-### Hi there 👋
+### Hi there
 
-I'm [Hasan Masud](http://hasanmasud.com/), a fullstack developer building digital products at my current workplace using Lean Design principles.
+I’m Hasan Masud, a full-stack developer building scalable, user-centered, and data-driven digital products.
 <br>
-I use PHP/Laravel, MySQL, JavaScript, Vue JS, jQuery, Bootsrap & Tailwind css to develop the products.
+I use PHP/Laravel, MySQL, Python, JavaScript, Vue JS to develop the products.
 <br>
 
-- 📫 How to reach me: 
+- How to reach me: 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ihasanmasud)](https://www.linkedin.com/in/ihasanmasud)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-tealgreen?style=flat&logo=whatsApp&logoColor=white&link=https://wa.me/8801720204272)](https://wa.me/8801720204272)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/iHasanMasud)](https://t.me/iHasanMasud)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=hasan.masud.dcc@gmail.com)](mailto:hasan.masud.dcc@gmail.com)
 
-- 💬 A little more about me:
+- About me:
 
 ```php
 <?php
@@ -25,10 +23,16 @@ class About extends Me
         return [
             'workplaces' => [
                 [
+                    'company' => 'ZTE Corporation',
+                    'position' => 'Senior Software Developer',
+                    'startDate' => '2026-02-25',
+                    'endDate' => null
+                ],
+                [
                     'company' => 'Genex Infosys Limited',
                     'position' => 'Senior Software Developer',
                     'startDate' => '2023-11-01',
-                    'endDate' => null
+                    'endDate' => '2026-02-24'
                 ],
                 [
                     'company' => 'DigiPro Solutions Ltd.',
